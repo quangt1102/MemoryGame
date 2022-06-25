@@ -1,0 +1,60 @@
+D:\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csprojAssemblyReference.cache
+D:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+D:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+D:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.GamePlay_UI.resources
+F:\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+F:\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe
+F:\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.pdb
+F:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csprojAssemblyReference.cache
+F:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.GamePlay_UI.resources
+F:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+F:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+F:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+F:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.exe
+F:\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.pdb
+C:\Users\Quang\Desktop\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\Quang\Desktop\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\Quang\Desktop\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\Quang\Desktop\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csprojAssemblyReference.cache
+C:\Users\Quang\Desktop\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.GamePlay_UI.resources
+C:\Users\Quang\Desktop\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Users\Quang\Desktop\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+C:\Users\Quang\Desktop\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Desktop\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\Quang\Desktop\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.pdb
+E:\FileUSB\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+E:\FileUSB\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe
+E:\FileUSB\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.pdb
+E:\FileUSB\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csprojAssemblyReference.cache
+E:\FileUSB\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.GamePlay_UI.resources
+E:\FileUSB\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+E:\FileUSB\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+E:\FileUSB\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+E:\FileUSB\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.exe
+E:\FileUSB\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\Học Hành\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\Học Hành\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\Học Hành\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\Học Hành\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.GamePlay_UI.resources
+D:\Học Hành\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\Học Hành\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+D:\Học Hành\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+D:\Học Hành\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\Học Hành\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\Học Hành\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+D:\HocHanh\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\HocHanh\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\HocHanh\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\HocHanh\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+D:\HocHanh\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.GamePlay_UI.resources
+D:\HocHanh\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\HocHanh\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+D:\HocHanh\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+D:\HocHanh\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\HocHanh\Nam2\HK2N2\Lap trinh C#\Quang_TH3\BaiTapLon\obj\Debug\BaiTapLon.pdb
